@@ -4,8 +4,11 @@
 - 🌱 I’m currently learning BS Computer Science.
 - 💞️ I’m looking to collaborate on web development projects and open-source contributions.
 - 📫 How to reach me: israqureshi138@gmail.com
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: I love to build websites and code!
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" />
+</p>
 
 ## About Me
 
