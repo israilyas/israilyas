@@ -6,7 +6,7 @@
 - 📫 How to reach me: israqureshi138@gmail.com
 - ⚡ Fun fact: I love to build websites and code!
 
-  <p align="center">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" />
 </p>
 
