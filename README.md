@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISRA ILYAS</h1>
-<h3 align="center">I'm a passionate <span style="color:blue;"><i>Frontend Developer</i></span> and a <i>BS Computer Science</i> student at <i>Federal Urdu University of Arts, Science, and Technology</i>. I love building responsive, user-friendly web applications with modern tools like <i>HTML</i>, <i>CSS</i>**, <i>JavaScript</i>, and <i>Bootstrap</i>. I'm constantly learning and exploring new technologies to create clean, efficient, and visually appealing solutions. Feel free to explore my projects and connect with me. Let's build something amazing together!</h3>
+<h3 align="center">I'm a passionate *Frontend Developer* 👩‍💻 and a <i>BS Computer Science</i> student at <i>Federal Urdu University of Arts, Science, and Technology</i>. I love building responsive, user-friendly web applications with modern tools like <i>HTML</i>, <i>CSS</i>**, <i>JavaScript</i>, and <i>Bootstrap</i>. I'm constantly learning and exploring new technologies to create clean, efficient, and visually appealing solutions. Feel free to explore my projects and connect with me. Let's build something amazing together!</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/israilyas/israilyas-porfolio) <i></i>
 
