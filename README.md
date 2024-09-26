@@ -1,28 +1,29 @@
-# Hi there, I'm ISRA 👋
+<h1 align="center">Hi 👋, I'm ISRA ILYAS</h1>
+<h3 align="center">I'm a passionate **Frontend Developer** and a **BS Computer Science** student at Federal Urdu University of Arts, Science, and Technology. I love building responsive, user-friendly web applications with modern tools like **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. I'm constantly learning and exploring new technologies to create clean, efficient, and visually appealing solutions. Feel free to explore my projects and connect with me. Let's build something amazing together!</h3>
 
-- 👀 I’m interested in web development and coding.
-- 🌱 I’m currently learning BS Computer Science.
-- 💞️ I’m looking to collaborate on web development projects and open-source contributions.
-- 📫 How to reach me: israqureshi138@gmail.com
-- ⚡ Fun fact: I love to build websites and code!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israilyas" alt="israilyas" /></a> </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" />
+- 🔭 I’m currently working on [My Portfolio](https://github.com/israilyas/israilyas-porfolio)
+
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at [https://github.com/israilyas/israilyas-porfolio](https://github.com/israilyas/israilyas-porfolio)
+
+- 📫 How to reach me **israilyasq@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/isra-ilyas-qureshi-a88670264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isra-ilyas-qureshi-a88670264/" height="30" width="40" /></a>
 </p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-My name is Isra Ilyas. I am a BS Computer Science student with a passion for web development and coding. I am skilled in frontend development and currently learning the MERN stack and SEO.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israilyas&show_icons=true&locale=en&layout=compact" alt="israilyas" /></p>
 
-## Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israilyas&show_icons=true&locale=en" alt="israilyas" /></p>
 
-- Frontend Development
-- MERN Stack
-- Python
-- SEO
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" /></p>
 
-<!---
-israilyas/israilyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
