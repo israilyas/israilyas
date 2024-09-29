@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/israilyas/israilyas-porfolio](https://israilyas.github.io/israilyas-porfolio/)]([https://github.com/israilyas/israilyas-porfolio](https://israilyas.github.io/israilyas-porfolio/))
+- 👨‍💻 All of my projects are available at [[https://github.com/israilyas/israilyas-porfolio](https://israilyas.github.io/israilyas-porfolio/)]
 
 - 📫 How to reach me **israilyasq@gmail.com**
 
