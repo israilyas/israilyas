@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ISRA ILYAS</h1>
 
-<center>
+<div align="center">
 <p align="center">I'm a passionate <b><i>Frontend Developer</i></b> 👩‍💻 and a <b><i>BS Computer Science</i></b> student at <b><i>Federal Urdu University of Arts, Science, and Technology</i></b>. I love building responsive, user-friendly web applications with modern tools like <b><i>HTML</i></b>, <b><i>CSS</i></b>, <b><i>JavaScript</i></b>, and <b><i>Bootstrap</i></b>. I'm constantly learning and exploring new technologies to create clean, efficient, and visually appealing solutions. Feel free to explore my projects and connect with me. Let's build something amazing together!</p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/israilyas/israilyas-porfolio) <i></i>
@@ -74,7 +74,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" /></p>
 
-</center>
+</div>
 
 
 
