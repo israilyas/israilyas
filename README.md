@@ -116,13 +116,6 @@
 
 ---
 
-### 📚 Learning Resources
-- [FreeCodeCamp](https://www.freecodecamp.org/) - A great platform for learning web development.
-- [MDN Web Docs](https://developer.mozilla.org/) - Comprehensive documentation for web technologies.
-- [W3Schools](https://www.w3schools.com/) - Beginner-friendly tutorials for web development.
-
----
-
 ### 💬 Get Involved
 - Interested in collaborating or have any questions? Feel free to reach out via email or connect with me on social media!
 
