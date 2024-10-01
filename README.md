@@ -1,10 +1,11 @@
-<h1 align="center" style="font-family: Arial, sans-serif; color: #D32F2F;">Hi 👋, I'm <b>Isra Ilyas</b></h1>
+<h1 align="center" style="font-family: Arial, sans-serif; color: #D32F2F;">Hi 👋, I'm <b>ISRA ILYAS</b></h1>
 
-<p align="center" style="font-size: 18px; color: #555;">
-  I'm a passionate <b><i>Frontend Developer</i></b> 👩‍💻 and a <b><i>BS Computer Science Student</i></b> at <i>Federal Urdu University of Arts, Science, and Technology</i>.
-  I love building responsive, user-friendly web applications with modern tools like <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Bootstrap</b>.
-  Constantly learning, I'm exploring new technologies to create clean, efficient, and visually appealing solutions. 
-  Let's build something amazing together!
+<p align="center">
+  <b><i>Frontend Developer</i></b> 👩‍💻 & <b><i>BS Computer Science Student</i></b> at <i>Federal Urdu University of Arts, Science, and Technology</i>
+</p>
+
+<p align="center"> 
+  I'm passionate about building responsive, user-friendly web applications using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Bootstrap</b>. Always striving to learn more, I'm currently exploring <b>Django</b> and modern web technologies to create clean, efficient, and visually stunning solutions. Let's connect and create something amazing together!
 </p>
 
 ---
