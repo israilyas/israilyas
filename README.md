@@ -86,23 +86,24 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left"><img src="https://img.icons8.com/ios-filled/50/000000/statistics.png" width="30" height="30"/> GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=israilyas&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Top Languages:</h3>
+<h3 align="left"><img src="https://img.icons8.com/ios-filled/50/000000/language.png" width="30" height="30"/> Top Languages:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israilyas&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left"><img src="https://img.icons8.com/ios-filled/50/000000/fire.png" width="30" height="30"/> GitHub Streak:</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="GitHub Streak" />
 </p>
+
 
 
 ---
