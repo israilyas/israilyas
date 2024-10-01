@@ -11,7 +11,7 @@
 
 ### 🌟 Current Work & Learning
 - 🔭 **Currently working on:** [**My Portfolio**](https://github.com/israilyas/israilyas-porfolio)
-- 🌱 **Learning:** **Django**
+- 🌱 **Learning:** **Django**, **React**, and **Data Structures**
 - 👨‍💻 **Check out all my projects:** [**My Portfolio**](https://isra-ilyas.netlify.app/)
 - 📫 **Reach me at:** [israilyasq@gmail.com](mailto:israilyasq@gmail.com)
 
@@ -22,6 +22,8 @@
 - 🌍 **Location:** Karachi, Pakistan.
 - 💡 **Interests:** Development, technology, design, and exploring new places.
 - 🎯 **Career Aspiration:** To become a skilled developer, contributing innovative solutions in the tech industry.
+- 💪 **Strengths:** Problem-solving, adaptability, and strong communication skills.
+- ✨ **Values:** Passion for learning, collaboration, and creating meaningful impact through technology.
 
 ---
 
@@ -116,4 +118,20 @@
 
 ### 💬 Get Involved
 - Interested in collaborating or have any questions? Feel free to reach out via email or connect with me on social media!
+
+---
+
+### 🔑 What Makes Me Stand Out
+- **Results-Driven Mindset:** I believe in delivering quality work that meets client expectations and solves real-world problems.
+- **Collaborative Spirit:** I thrive in team environments and enjoy learning from others while sharing my insights and knowledge.
+- **Continuous Learner:** I am committed to staying updated with the latest technologies and trends in the development world. My recent projects include leveraging frameworks and libraries like React and Django, enhancing my full-stack development skills.
+- **Impact-Oriented:** I aim to create applications that not only fulfill user needs but also contribute positively to the community. My work is fueled by a desire to make technology accessible and beneficial to everyone.
+
+---
+
+### 🌈 Personal Quote
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt  
+> This inspires me to chase my dreams in tech and continuously strive to improve and innovate.
+
+---
 
