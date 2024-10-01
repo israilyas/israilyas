@@ -86,19 +86,24 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israilyas&show_icons=true&count_private=true&hide=prs&theme=radical" alt="israilyas" />
-</p>
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israilyas&show_icons=true&locale=en&layout=compact" alt="israilyas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=israilyas&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<br>
+
+<h3 align="left">Top Languages:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="israilyas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israilyas&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<h3 align="left">GitHub Streak:</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israilyas&" alt="GitHub Streak" />
+</p>
+
 
 ---
 
