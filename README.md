@@ -110,7 +110,7 @@
 
 ### 📝 My Projects
 - [OLX Clone](https://github.com/israilyas/olx-clone) - A clone of the OLX website for buying and selling products.
-- [Netflix Clone](https://github.com/israilyas/netflix-clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) - A responsive clone of the Netflix website using HTML, CSS, and Bootstrap.
+- [Netflix Clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) - A responsive clone of the Netflix website using HTML, CSS, and Bootstrap.
 - [Random Number Guessing Game](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/Guess_the_Number) - A fun game to guess a random number with a user-friendly interface.
 - [To-Do List](https://github.com/israilyas/JS-Projects/tree/main/TO%20DO%20LIST) - A simple and effective task management application with local storage functionality.
 
