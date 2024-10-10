@@ -109,6 +109,7 @@
 ---
 
 ### 📝 My Projects
+- [Blogging Website](https://github.com/israilyas/Blog-Website) - A Blog website using Tailwind CSS.
 - [OLX Clone](https://github.com/israilyas/olx-clone) - A clone of the OLX website for buying and selling products.
 - [Netflix Clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) - A responsive clone of the Netflix website using HTML, CSS, and Bootstrap.
 - [Random Number Guessing Game](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/Guess_the_Number) - A fun game to guess a random number with a user-friendly interface.
