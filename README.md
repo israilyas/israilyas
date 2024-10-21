@@ -45,6 +45,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center"> 
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
   </a>
@@ -54,9 +55,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
   </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> 
-  </a> 
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer" title="Git"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
   </a> 
@@ -65,12 +63,6 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer" title="MySQL"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-  </a> 
-  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer" title="Node.js"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
   </a> 
   <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer" title="Oracle"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> 
