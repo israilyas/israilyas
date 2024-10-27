@@ -102,13 +102,14 @@
 ---
 
 ### 📝 My Projects
+- [ GitHub User Explorer](https://github-user-explorer-by-israilyas.netlify.app/?) - GitHub User Explorer utilizes the GitHub API to display user details like profile pictures and repository links. Built with HTML, Tailwind CSS, and TypeScript.
 - [Blogging Website](https://github.com/israilyas/Blog-Website) - A Blog website using Tailwind CSS.
-- [OLX Clone](https://github.com/israilyas/olx-clone) - A clone of the OLX website for buying and selling products.
+- [OLX Clone](https://olx-clone-by-israilyas.netlify.app/) - A clone of the OLX website for buying and selling products.
 - [Netflix Clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) - A responsive clone of the Netflix website using HTML, CSS, and Bootstrap.
-- [Random Number Guessing Game](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/Guess_the_Number) - A fun game to guess a random number with a user-friendly interface.
+- [Random Number Guessing Game](https://guess-number-game-by-isra.netlify.app/) - A fun game to guess a random number with a user-friendly interface.
 - [GitHub User Card](https://github.com/israilyas/js-learning/tree/main/11_Advance_one/github%20Card%20Assignment) - A GitHub API integration project displaying user profiles dynamically.
-- [To-Do List](https://github.com/israilyas/JS-Projects/tree/main/TO%20DO%20LIST) - A simple and effective task management application with local storage functionality. 
-- [BMI-Calculator](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/BMI_calculator) - BMI Calculator using JavaScript for real-time body mass index calculation based on user input.
+- [To-Do List](https://to-do-list-app-by-israilyas.netlify.app/) - A simple and effective task management application with local storage functionality. 
+- [BMI-Calculator](https://bmi-calculator-by-isra.netlify.app/) - BMI Calculator using JavaScript for real-time body mass index calculation based on user input.
 - [Background Changer](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/color_changer/BG_color_changer) -  A simple project to change the background color with each button click using JavaScript.
 ---
 
