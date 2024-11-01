@@ -102,6 +102,7 @@
 ---
 
 ### 📝 My Projects
+- [BG Changer TypeScript](https://github.com/israilyas/BG-changer-TypeScript)
 - [ GitHub User Explorer](https://github-user-explorer-by-israilyas.netlify.app/?) 
 - [Blogging Website](https://github.com/israilyas/Blog-Website) 
 - [OLX Clone](https://olx-clone-by-israilyas.netlify.app/) 
