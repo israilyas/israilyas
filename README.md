@@ -11,9 +11,8 @@
 ---
 
 ### 🌟 Current Work & Learning
-- 🔭 **Currently working on:** [**My Portfolio**](https://github.com/israilyas/israilyas-porfolio)
-- 🌱 **Learning:** **TypeScript**, and **Data Structures**
-- 👨‍💻 **Check out all my portfolio:** [**My Portfolio**](https://isra-ilyas.netlify.app/)
+- 🌱 **Learning:** **React**
+- 👨‍💻 **Check out my portfolio:** [**My Portfolio**](https://isra-ilyas.netlify.app/)
 - 📫 **Reach me at:** [israilyasq@gmail.com](mailto:israilyasq@gmail.com)
 
 ---
