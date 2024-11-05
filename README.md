@@ -101,9 +101,12 @@
 ---
 
 ### 📝 My Projects
+- [Keyboard Check TypeScript](https://github.com/israilyas/KeyBoard-Check-TS)
+- [Random BG Generator TypeScript](https://github.com/israilyas/Random-Background-Generator-TypeScript)
 - [BG Changer TypeScript](https://github.com/israilyas/BG-changer-TypeScript)
 - [ GitHub User Explorer](https://github-user-explorer-by-israilyas.netlify.app/?) 
-- [Blogging Website](https://github.com/israilyas/Blog-Website) 
+- [Blogging Website](https://github.com/israilyas/Blog-Website)
+- [My Portfolio](https://isra-ilyas.netlify.app/)
 - [OLX Clone](https://olx-clone-by-israilyas.netlify.app/) 
 - [Netflix Clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) 
 - [Random Number Guessing Game](https://guess-number-game-by-isra.netlify.app/) 
