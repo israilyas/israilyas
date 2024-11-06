@@ -101,6 +101,7 @@
 ---
 
 ### 📝 My Projects
+- [BMI Calculator TypeScript](https://github.com/israilyas/BMI-Calculator-TypeScript)
 - [Keyboard Check TypeScript](https://github.com/israilyas/KeyBoard-Check-TS)
 - [Random BG Generator TypeScript](https://github.com/israilyas/Random-Background-Generator-TypeScript)
 - [BG Changer TypeScript](https://github.com/israilyas/BG-changer-TypeScript)
