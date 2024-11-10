@@ -110,7 +110,7 @@
 - [Blogging Website](https://github.com/israilyas/Blog-Website)
 - [My Portfolio](https://isra-ilyas.netlify.app/)
 - [OLX Clone](https://olx-clone-by-israilyas.netlify.app/) 
-- [Netflix Clone](https://github.com/israilyas/Netflix-Clone-SMIT-TASK) 
+- [Netflix Clone](https://nclonebyisra.netlify.app)
 - [Random Number Guessing Game](https://guess-number-game-by-isra.netlify.app/) 
 - [GitHub User Card](https://github.com/israilyas/js-learning/tree/main/11_Advance_one/github%20Card%20Assignment)
 - [To-Do List](https://to-do-list-app-by-israilyas.netlify.app/) 
