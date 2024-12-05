@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-  I'm passionate about building responsive, user-friendly web applications using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Bootstrap</b>. Always striving to learn more, I'm currently exploring <b>Django</b> and modern web technologies to create clean, efficient, and visually stunning solutions. Let's connect and create something amazing together!
+  I'm passionate about building responsive, user-friendly web applications using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Bootstrap/Tailwind</b> and <b>React JS</b>. Always striving to learn more, I'm currently exploring <b>Django</b> and modern web technologies to create clean, efficient, and visually stunning solutions. Let's connect and create something amazing together!
 </p>
 
 ---
