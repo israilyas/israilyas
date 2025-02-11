@@ -120,6 +120,15 @@
 - [Background Changer](https://github.com/israilyas/js-learning/tree/main/07_DOM_projects/color_changer/BG_color_changer) 
 ---
 
+### 📝 React-JS Projects
+
+- [Currency COnverter](https://currency-converter-reactjs-ebon.vercel.app/) => [Github Repo](https://github.com/israilyas/React-JS-2025/tree/main/06currencyConverter)
+- [Password Generator](https://react-js-2025.vercel.app/) => [Github Repo](https://github.com/israilyas/React-JS-2025/tree/main/05passwordGenerator)
+- Background Changer  => [Github Repo](https://github.com/israilyas/React-JS-2025/tree/main/bgchangerreact)
+- Counter => [Github](https://github.com/israilyas/React-JS-2025/tree/main/02counter)
+
+---
+
 ### 💬 Get Involved
 - Interested in collaborating or have any questions? Feel free to reach out via email or connect with me on social media!
 
